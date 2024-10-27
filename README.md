@@ -71,7 +71,15 @@ plt.legend()
 plt.title("Customer Segments")
 ```
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+
+![image](https://github.com/user-attachments/assets/de3a9a42-3a88-4861-9b0c-06836154668a)
+
+#### y_pred
+![image](https://github.com/user-attachments/assets/a21b62fe-f81d-433c-9e7e-96bf2e06040c)
+
+#### Cluster
+![image](https://github.com/user-attachments/assets/5b0765e9-57f1-4cd4-978d-d34d4d963505)
+
 
 
 ## Result:
